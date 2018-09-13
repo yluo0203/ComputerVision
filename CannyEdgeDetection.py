@@ -3,7 +3,6 @@
 """
 Created on Sat Apr  7 17:17:40 2018
 
-@author: tse-jen.lu
 """
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
